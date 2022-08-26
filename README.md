@@ -13,15 +13,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+#### Desktop Image
 ![Desktop Image: 1440px](https://github.com/makumi10/Mobile-first-solution-using-CSS-Grid-and-Flexbox/blob/main/Screenshot%201440px.png)
 
+#### Mobile Image
 ![Mobile Image 375px](https://github.com/makumi10/Mobile-first-solution-using-CSS-Grid-and-Flexbox/blob/main/Screenshot%20375.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://frontendmentortst1.netlify.app)
 
 ## My process
 

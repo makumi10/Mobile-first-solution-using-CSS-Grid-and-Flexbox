@@ -4,24 +4,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-  - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
+![Desktop Image: 1440px](https://github.com/makumi10/Mobile-first-solution-using-CSS-Grid-and-Flexbox/blob/main/Screenshot%201440px.png)
 
+![Mobile Image 375px](https://github.com/makumi10/Mobile-first-solution-using-CSS-Grid-and-Flexbox/blob/main/Screenshot%20375.png)
 
 
 ### Links
